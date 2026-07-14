@@ -1,0 +1,1 @@
+# No CCC-managed symlinks are needed for this course setup.
